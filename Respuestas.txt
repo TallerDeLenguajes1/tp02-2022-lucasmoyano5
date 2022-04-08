@@ -1,0 +1,10 @@
+
+
+No se puede ver el archivo tp2_1_2.c porque se encuentra en la rama Opcion_2 y estamos en la rama master.
+
+Al agregar el archivo Respuestas en el diagrama se visualizan 2 ramas, una master y la otra Opcion_2.
+
+Al realizar el merge se unieron las 2 ramas y continua la rama master.
+
+
+
